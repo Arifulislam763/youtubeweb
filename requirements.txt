@@ -1,6 +1,6 @@
 
 TgCrypto
-Pyrogram==1.0.7
+Pyrogram
 youtube-dl
 Flask
 gunicorn
